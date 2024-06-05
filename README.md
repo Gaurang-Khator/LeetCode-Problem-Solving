@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 # Binary Search
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 # Two Pointers
 |  |
 | ------- |
@@ -40,3 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
