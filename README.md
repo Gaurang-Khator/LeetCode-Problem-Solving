@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 # Binary Search
@@ -49,3 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0136-single-number) |
