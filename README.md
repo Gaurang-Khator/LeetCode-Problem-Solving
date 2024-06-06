@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 # Two Pointers
@@ -45,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
