@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0136-single-number) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
@@ -61,3 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
