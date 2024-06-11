@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1580-shuffle-the-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 # Binary Search
 |  |
 | ------- |
