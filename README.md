@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+| [1580-shuffle-the-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 # Binary Search
 |  |
