@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1580-shuffle-the-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -62,11 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Simulation
 |  |
@@ -90,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 # Dynamic Programming
 |  |
