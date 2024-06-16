@@ -15,18 +15,21 @@ public:
         if(root == nullptr) {
             return 0;
         }
-        return max(helper(root->left), helper(root->right))+1;
+        int lh = helper(root->left);
+        int rh = helper(root->right);
+        if(lh == -1 || rh == -1) {
+            return -1;
+        }
+        if(abs(lh-rh) > 1) {
+            return -1;
+        }
+        return max(lh, rh)+1;
 
     }
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) {
-            return true;
+        if(helper(root) == -1) {
+            return false;
         }
-        int lh = helper(root->left);
-        int rh = helper(root->right);
-        if(abs(lh-rh) <= 1 && isBalanced(root->left)==true && isBalanced(root->right)==true) {
-            return true;
-        }
-        return false;
+        return true;
     }
 };
