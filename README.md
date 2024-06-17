@@ -46,12 +46,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 # Linked List
 |  |
 | ------- |
