@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 # Matrix
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0633-sum-of-square-numbers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0633-sum-of-square-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 # Counting
 |  |
