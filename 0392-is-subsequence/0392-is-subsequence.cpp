@@ -10,9 +10,9 @@ public:
                 j++;
             }
         }
-        if(j == t.size() && i < s.size()) {
-            return false;
+        if(i == s.size()) {
+            return true;
         }
-        return true;
+        return false;
     }
 };
