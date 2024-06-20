@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
 # Sorting
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Greedy
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -144,9 +148,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
