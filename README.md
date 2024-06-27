@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1635-number-of-good-pairs](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1635-number-of-good-pairs) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Greedy
