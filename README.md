@@ -171,3 +171,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+<!---LeetCode Topics End-->
