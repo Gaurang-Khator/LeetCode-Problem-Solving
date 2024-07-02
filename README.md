@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -185,4 +186,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
