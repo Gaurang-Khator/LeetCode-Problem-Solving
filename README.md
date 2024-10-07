@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
