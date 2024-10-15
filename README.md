@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
