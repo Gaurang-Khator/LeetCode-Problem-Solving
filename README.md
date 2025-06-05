@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
@@ -287,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
