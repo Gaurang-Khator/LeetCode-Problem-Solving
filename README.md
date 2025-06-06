@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -299,4 +300,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
