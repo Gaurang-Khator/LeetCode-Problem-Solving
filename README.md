@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -293,5 +295,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
