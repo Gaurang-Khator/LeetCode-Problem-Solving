@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
