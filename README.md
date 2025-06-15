@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
