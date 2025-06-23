@@ -25,14 +25,12 @@ public:
         q.push(root);
         while(!q.empty()) {
             int s = q.size();
-            Node* node = nullptr;
             for(int i=0; i<s; i++) {
                 Node* temp = q.front();
                 q.pop();
-                if(node != nullptr) {
-                    node->next = temp;
+                if(i < s-1){
+                    temp->next = q.front();
                 }
-                node = temp;
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
             }
