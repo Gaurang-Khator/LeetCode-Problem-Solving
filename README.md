@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
