@@ -15,5 +15,6 @@ public:
         }
         vector<int> res(s.begin(), s.end());
         return res;
+        
     }
 };
