@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Math
 |  |
 | ------- |
