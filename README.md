@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0027-remove-element) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0027-remove-element) |
