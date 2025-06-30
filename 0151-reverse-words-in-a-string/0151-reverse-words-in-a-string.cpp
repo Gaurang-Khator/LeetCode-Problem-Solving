@@ -20,9 +20,10 @@ public:
         string rev = "";
         string temp ="";
         for(int i=0; i<s.length(); i++) {
-            if(s[i] != ' ') {
+            while(i<s.length() && s[i] != ' ') {
                 temp += s[i];
-            } else if(s[i] == ' ' && s[i+1] != ' ') {
+                i++;
+            } if(s[i] == ' ' && s[i+1] != ' ') {
                 rev = temp + " " + rev;
                 temp = "";
             }
