@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
