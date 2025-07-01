@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -444,5 +446,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
