@@ -7,7 +7,7 @@ public:
         long long prod = 1;
         while(j < nums.size()) {
             prod *= nums[j];
-            while(i<nums.size() && prod >= k) {
+            while(prod >= k) {
                 prod /= nums[i];
                 i++;
             }
