@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
@@ -446,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
