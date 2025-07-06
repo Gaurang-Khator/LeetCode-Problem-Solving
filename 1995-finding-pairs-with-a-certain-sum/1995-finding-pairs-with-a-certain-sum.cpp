@@ -1,5 +1,4 @@
 class FindSumPairs {
-private:
     vector<int> n1, n2;
     unordered_map<int, int> mp;
 public:
@@ -21,7 +20,7 @@ public:
         int cnt = 0;
         for(int i: n1) {
             int req = tot - i;
-            cnt += mp[req];
+            if(mp.find(req) != mp.end()) cnt += mp[req];
         }
         return cnt;
     }
