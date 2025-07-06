@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -471,5 +473,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
