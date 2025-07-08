@@ -4,11 +4,8 @@ public:
     MinStack() {}
     
     void push(int val) {
-        if(st.empty()) st.push({val, val});
-        else {
-            if(st.top().second > val) st.push({val, val});
-            else st.push({val, st.top().second});
-        }
+        if(!st.empty() && st.top().second < val) st.push({val, st.top().second});
+        else st.push({val, val});
     }
     void pop() {
         st.pop();
