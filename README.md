@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -484,4 +486,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
