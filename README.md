@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 ## Array
 |  |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
