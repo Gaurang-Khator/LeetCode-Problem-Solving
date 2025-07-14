@@ -12,11 +12,7 @@ public:
         int n = rooms.size();
         vector<int> vis(n, 0);
         vis[0] = 1;
-        for(int i=0; i<n; i++) {
-            if(vis[i]) {
-                dfs(i, vis, rooms);
-            }
-        }
+        dfs(0, vis, rooms);
         for(auto i: vis) {
             if(i == 0) return false;
         }
