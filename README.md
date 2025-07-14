@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -478,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
