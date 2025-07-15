@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -461,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0871-keys-and-rooms) |
