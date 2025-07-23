@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1813-maximum-erasure-value](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 ## String
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 ## Design
 |  |
 | ------- |
