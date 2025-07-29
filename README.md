@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
