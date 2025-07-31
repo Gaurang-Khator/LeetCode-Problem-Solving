@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0871-keys-and-rooms) |
@@ -520,5 +522,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0871-keys-and-rooms](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0871-keys-and-rooms) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
