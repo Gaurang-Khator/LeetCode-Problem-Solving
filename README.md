@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -554,4 +557,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
