@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -561,8 +563,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
