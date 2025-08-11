@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [2529-range-product-queries-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2529-range-product-queries-of-powers) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2529-range-product-queries-of-powers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [2529-range-product-queries-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2529-range-product-queries-of-powers) |
 ## Union Find
 |  |
 | ------- |
