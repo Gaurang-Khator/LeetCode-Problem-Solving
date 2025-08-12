@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Math
 |  |
 | ------- |
