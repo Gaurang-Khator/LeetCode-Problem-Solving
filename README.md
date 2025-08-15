@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
