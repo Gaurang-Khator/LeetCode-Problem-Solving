@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0063-unique-paths-ii) |
@@ -598,4 +599,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
