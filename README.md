@@ -289,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2529-range-product-queries-of-powers) |
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
