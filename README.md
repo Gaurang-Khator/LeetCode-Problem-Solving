@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3195-separate-black-and-white-balls) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 ## Array
 |  |
 | ------- |
