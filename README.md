@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0823-binary-trees-with-factors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0823-binary-trees-with-factors) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0455-assign-cookies) |
+| [0823-binary-trees-with-factors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0823-binary-trees-with-factors) |
 | [0900-reordered-power-of-2](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0823-binary-trees-with-factors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0823-binary-trees-with-factors) |
 | [0890-lemonade-change](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0823-binary-trees-with-factors](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0823-binary-trees-with-factors) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Math
 |  |
