@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0900-reordered-power-of-2](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -520,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3227-find-missing-and-repeated-values](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
