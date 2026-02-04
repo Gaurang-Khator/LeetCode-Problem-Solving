@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Gaurang-Khator/LeetCode-Problem-Solving/tree/master/2125-number-of-laser-beams-in-a-bank) |
